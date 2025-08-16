@@ -4,3 +4,10 @@ date: 2023-01-23
 draft: true
 ---
 This is a draft post
+
+![](/public/img/20944202.jpg)
+
+|     |     |     |
+| --- | --- | --- |
+|     |     |     |
+|     |     |     |
